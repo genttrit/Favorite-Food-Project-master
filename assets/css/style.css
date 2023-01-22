@@ -12,7 +12,6 @@ html {
 
 header {
   height: 100vh;
-  background-image: url(images/img1.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -177,7 +176,6 @@ header .childTitle2 {
   width: 1300px;
   height: 100vh;
   margin: 0 auto;
-  background-image: url(images/img5.jpeg);
   background-size: 100%;
   background-position: 50% 100%;
   display: flex;
@@ -322,7 +320,6 @@ header .childTitle2 {
 footer {
   margin-top: 30px;
   width: 100%;
-  background-image: url(images/img10.jpeg);
   background-position: 50% 80%;
   background-repeat: no-repeat;
   background-size: cover;
